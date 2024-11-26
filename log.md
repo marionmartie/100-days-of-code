@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-**Goal: Learn Vue, React, Tailwind and branch to backend**
+## Goal: Learn Vue, React, Tailwind and branch to backend
 
 ### Day 0: February 30, 2016 (Example 1)
 
