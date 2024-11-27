@@ -12,10 +12,29 @@
 
 ### Day 1: November 26, 2024
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Restarted Vue Crash Course from the scratch and making new and better notes.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Vue CC 27-24] (https://github.com/marionmartie/vue-27-11-24)
+
+### Day 2: November 27, 2024
+
+**Today's Progress**: Continuation of restarting vue crash course
+
+**Thoughts**: Reactive are deeply (uhm what do you call that...) i forgot...
+
+**Link(s) to work**
+1. [Vue CC 27-24] (https://github.com/marionmartie/vue-27-11-24)
+
+### Day 3: November 28, 2024
+
+**Today's Progress**: Worked on using vue-spinner fetching single data, creating add jobs and submitting the data.
+
+**Thoughts**: 
+
+**Link(s) to work**
+1. [Vue CC 27-24] (https://github.com/marionmartie/vue-27-11-24)
+
+
