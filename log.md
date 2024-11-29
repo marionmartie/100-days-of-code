@@ -37,4 +37,14 @@
 **Link(s) to work**
 1. [Vue CC 27-24] (https://github.com/marionmartie/vue-27-11-24)
 
+### Day 4: November 29, 2024
+
+**Today's Progress**: Setting up toast notification, deleting, editing, and deploying to Netlify
+
+**Thoughts**: It's fun to complete a project. 
+
+**Link(s) to work**
+1. [Vue CC 27-24] (https://github.com/marionmartie/vue-27-11-24)
+
+
 
