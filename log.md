@@ -47,4 +47,11 @@
 1. [Vue CC 27-24] (https://github.com/marionmartie/vue-27-11-24)
 
 
+### Day 5: December 1, 2024
 
+**Today's Progress**: Tried the quick try of React-Remix
+
+**Thoughts**: I encountered an error but I feel like I need a knowledge of TS before going here
+
+**Link(s) to work**
+1. [React Remix Blog] (https://github.com/marionmartie/react-remix-blog)
