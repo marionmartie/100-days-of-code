@@ -55,3 +55,12 @@
 
 **Link(s) to work**
 1. [React Remix Blog] (https://github.com/marionmartie/react-remix-blog)
+
+### Day 6: December 2, 2024
+
+**Today's Progress**: Starting React Crash Course
+
+**Thoughts**: There are pros and cons of using any library or framework
+
+**Link(s) to work**
+1. [React Crash Course] (https://github.com/marionmartie/react-crash-course)
