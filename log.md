@@ -64,3 +64,12 @@
 
 **Link(s) to work**
 1. [React Crash Course] (https://github.com/marionmartie/react-crash-course)
+
+### Day 7: December 3, 2024
+
+**Today's Progress**: Creating components, and passing props
+
+**Thoughts**: It's similar to Vue but just a bit different on how to access props
+
+**Link(s) to work**
+1. [React Crash Course] (https://github.com/marionmartie/react-crash-course)
