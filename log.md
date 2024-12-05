@@ -73,3 +73,12 @@
 
 **Link(s) to work**
 1. [React Crash Course] (https://github.com/marionmartie/react-crash-course)
+
+### Day 8: December 4, 2024
+
+**Today's Progress**: Using state, map() 
+
+**Thoughts**: Vue is much more easier to do
+
+**Link(s) to work**
+1. [React Crash Course] (https://github.com/marionmartie/react-crash-course)
