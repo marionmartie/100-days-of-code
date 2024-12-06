@@ -91,3 +91,12 @@
 
 **Link(s) to work**
 1. [React Crash Course] (https://github.com/marionmartie/react-crash-course)
+
+### Day 10: December 6, 2024
+
+**Today's Progress**: Fetching API and loading 
+
+**Thoughts**: I got stuck with spinners but I am not sure if I am following it correctly
+
+**Link(s) to work**
+1. [React Crash Course] (https://github.com/marionmartie/react-crash-course)
