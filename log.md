@@ -100,3 +100,12 @@
 
 **Link(s) to work**
 1. [React Crash Course] (https://github.com/marionmartie/react-crash-course)
+
+### Day 11: December 9, 2024
+
+**Today's Progress**: Proxying, single page, creating add job page 
+
+**Thoughts**: I think React have way too many developers working on shortening codes
+
+**Link(s) to work**
+1. [React Crash Course] (https://github.com/marionmartie/react-crash-course)
