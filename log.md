@@ -109,3 +109,12 @@
 
 **Link(s) to work**
 1. [React Crash Course] (https://github.com/marionmartie/react-crash-course)
+
+### Day 12: December 10, 2024
+
+**Today's Progress**: Add, edit, delete function, toast, and useNavigate()
+
+**Thoughts**: I feel like I barely scratched the surface with this one
+
+**Link(s) to work**
+1. [React Crash Course] (https://github.com/marionmartie/react-crash-course)
