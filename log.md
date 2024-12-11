@@ -118,3 +118,12 @@
 
 **Link(s) to work**
 1. [React Crash Course] (https://github.com/marionmartie/react-crash-course)
+
+### Day 12: December 11, 2024
+
+**Today's Progress**: Setup of playground with React, Tailwind, and Routers
+
+**Thoughts**: I need to practice more in setting up react router projects
+
+**Link(s) to work**
+1. [React Crash Course] (https://github.com/marionmartie/react19-playground)
