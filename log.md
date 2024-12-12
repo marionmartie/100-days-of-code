@@ -127,3 +127,12 @@
 
 **Link(s) to work**
 1. [React Crash Course] (https://github.com/marionmartie/react19-playground)
+
+### Day 13: December 12, 2024
+
+**Today's Progress**: Wasted effort as react 19 feels like to weird to do for now
+
+**Thoughts**: I hope I just did not waste time trying to do whatever
+
+**Link(s) to work**
+1. [React Crash Course] (https://github.com/marionmartie/react19-playground)
