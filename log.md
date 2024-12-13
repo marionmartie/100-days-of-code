@@ -136,3 +136,12 @@
 
 **Link(s) to work**
 1. [React Crash Course] (https://github.com/marionmartie/react19-playground)
+
+### Day 14: December 13, 2024
+
+**Today's Progress**: Restarted the project without the video, so far so good
+
+**Thoughts**: The new Notion note taking system I am using is really good
+
+**Link(s) to work**
+1. [React Crash Course] (https://github.com/marionmartie/react-crash-course)
