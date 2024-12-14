@@ -145,3 +145,12 @@
 
 **Link(s) to work**
 1. [React Crash Course] (https://github.com/marionmartie/react-crash-course)
+
+### Day 15: December 14, 2024
+
+**Today's Progress**: Almost done with the retry without the video and just my notes
+
+**Thoughts**: My head is spinning with Vue and React syntax
+
+**Link(s) to work**
+1. [React Crash Course] (https://github.com/marionmartie/react-crash-course)
