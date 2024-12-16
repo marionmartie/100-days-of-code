@@ -154,3 +154,12 @@
 
 **Link(s) to work**
 1. [React Crash Course] (https://github.com/marionmartie/react-crash-course)
+
+### Day 16: December 16, 2024
+
+**Today's Progress**: Completed in 2 and a half days
+
+**Thoughts**: What happened to toast?
+
+**Link(s) to work**
+1. [React Crash Course] (https://github.com/marionmartie/react-crash-course)
