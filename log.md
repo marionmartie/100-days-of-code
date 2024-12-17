@@ -163,3 +163,12 @@
 
 **Link(s) to work**
 1. [React Crash Course] (https://github.com/marionmartie/react-crash-course)
+
+### Day 17: December 17, 2024
+
+**Today's Progress**: Started the Scrimba full course for React
+
+**Thoughts**: I learned how to create custom component that is simple.
+
+**Link(s) to work**
+1. [Scrimba] (https://scrimba.com/learn-react-c0e/~05yn)
