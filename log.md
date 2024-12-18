@@ -172,3 +172,12 @@
 
 **Link(s) to work**
 1. [Scrimba] (https://scrimba.com/learn-react-c0e/~05yn)
+
+### Day 18: December 18, 2024
+
+**Today's Progress**: Learned about custom components
+
+**Thoughts**: The course is very very detailed
+
+**Link(s) to work**
+1. [Scrimba] (https://scrimba.com/learn-react-c0e/~05yn)
