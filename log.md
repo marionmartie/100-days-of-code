@@ -181,3 +181,12 @@
 
 **Link(s) to work**
 1. [Scrimba] (https://scrimba.com/learn-react-c0e/~05yn)
+
+### Day 19: December 19, 2024
+
+**Today's Progress**: Learned how to create nested components from the scratch
+
+**Thoughts**: Fun to learn how to build from the smallest detail
+
+**Link(s) to work**
+1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
