@@ -190,3 +190,12 @@
 
 **Link(s) to work**
 1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
+
+### Day 20: December 23, 2024
+
+**Today's Progress**: Passing props and creating cards
+
+**Thoughts**: Back to familiar territory
+
+**Link(s) to work**
+1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
