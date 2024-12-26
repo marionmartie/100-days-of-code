@@ -199,3 +199,12 @@
 
 **Link(s) to work**
 1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
+
+### Day 21: December 26, 2024
+
+**Today's Progress**: Creating new props project
+
+**Thoughts**: Spent most of my time in styling. Grid in tailwind is a bit confusing.
+
+**Link(s) to work**
+1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
