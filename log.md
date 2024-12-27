@@ -208,3 +208,12 @@
 
 **Link(s) to work**
 1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
+
+### Day 22: December 27, 2024
+
+**Today's Progress**: Completed journal entry
+
+**Thoughts**: So it's just the same huh
+
+**Link(s) to work**
+1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
