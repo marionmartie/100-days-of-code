@@ -217,3 +217,12 @@
 
 **Link(s) to work**
 1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
+
+### Day 23: January 3, 2024
+
+**Today's Progress**: New project under Scrimba course: nav, form, and map for dynamic data
+
+**Thoughts**: Spent time debugging Tailwind. I am not supposed to add outside extend.
+
+**Link(s) to work**
+1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
