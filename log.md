@@ -235,3 +235,12 @@
 
 **Link(s) to work**
 1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
+
+### Day 25: January 7, 2025
+
+**Today's Progress**: More states and complex objects
+
+**Thoughts**: ES6 really changed stuff
+
+**Link(s) to work**
+1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
