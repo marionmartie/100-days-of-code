@@ -244,3 +244,12 @@
 
 **Link(s) to work**
 1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
+
+### Day 26: January 8, 2025
+
+**Today's Progress**: Using Object.fromEntries, conditional rendering, upgrading to react 19
+
+**Thoughts**: Finally got how to work around react 19... for a little bit
+
+**Link(s) to work**
+1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
