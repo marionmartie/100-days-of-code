@@ -253,3 +253,12 @@
 
 **Link(s) to work**
 1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
+
+### Day 27: January 9, 2025
+
+**Today's Progress**: Extensive discussion on ternary statements
+
+**Thoughts**: Vue did it better
+
+**Link(s) to work**
+1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
