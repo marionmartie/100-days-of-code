@@ -262,3 +262,12 @@
 
 **Link(s) to work**
 1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
+
+### Day 28: January 10, 2025
+
+**Today's Progress**: Inline styles to JSX, clearer understanding of events as props
+
+**Thoughts**: Working on multiple smaller scale projects gives me perspective on different use cases of a concept
+
+**Link(s) to work**
+1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
