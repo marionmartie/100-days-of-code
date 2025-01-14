@@ -280,3 +280,12 @@
 
 **Link(s) to work**
 1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
+
+### Day 30: January 14, 2025
+
+**Today's Progress**: Setting up AI and separating components
+
+**Thoughts**: I need to practice more on ES6
+
+**Link(s) to work**
+1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
