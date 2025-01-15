@@ -289,3 +289,12 @@
 
 **Link(s) to work**
 1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
+
+### Day 31: January 15, 2025
+
+**Today's Progress**: Debugged the AI thing for 30 mins only to know it was down
+
+**Thoughts**: I feel so tired
+
+**Link(s) to work**
+1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
