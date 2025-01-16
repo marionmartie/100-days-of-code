@@ -298,3 +298,12 @@
 
 **Link(s) to work**
 1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
+
+### Day 32: January 16, 2025
+
+**Today's Progress**: Tackled useEffect lessons
+
+**Thoughts**: useEffect uses dependency arrays and called dependency for a reason
+
+**Link(s) to work**
+1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
