@@ -307,3 +307,12 @@
 
 **Link(s) to work**
 1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
+
+### Day 33: January 20, 2025
+
+**Today's Progress**: Completed challenge for changing state
+
+**Thoughts**: Maybe I shouldn't spend the next challenges designing
+
+**Link(s) to work**
+1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
