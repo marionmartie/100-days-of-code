@@ -316,3 +316,12 @@
 
 **Link(s) to work**
 1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
+
+### Day 34: January 21, 2025
+
+**Today's Progress**: Completed Tenzies game
+
+**Thoughts**: Reactive variables are not exclusive to react state. Duh. That's why it re-renders.
+
+**Link(s) to work**
+1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
