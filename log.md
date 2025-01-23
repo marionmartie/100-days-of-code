@@ -325,3 +325,12 @@
 
 **Link(s) to work**
 1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
+
+### Day 35: January 23, 2025
+
+**Today's Progress**: Added new game, focus change, timer
+
+**Thoughts**: This is a very interesting challenge
+
+**Link(s) to work**
+1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
