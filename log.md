@@ -334,3 +334,12 @@
 
 **Link(s) to work**
 1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
+
+### Day 36: January 27, 2025
+
+**Today's Progress**: Completed Tenzies by adding reroll counts and started assembly game
+
+**Thoughts**: Wow I sucked at algorithms
+
+**Link(s) to work**
+1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
