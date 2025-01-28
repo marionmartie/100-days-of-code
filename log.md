@@ -343,3 +343,12 @@
 
 **Link(s) to work**
 1. [Scrimba] (https://github.com/marionmartie/scrimba-react-app)
+
+### Day 37: January 28, 2025
+
+**Today's Progress**: Learned about declaring data types and custom data types
+
+**Thoughts**: Interesting to learn about how to use TS in vanilla JS
+
+**Link(s) to work**
+1. [GitHub] (https://github.com/marionmartie/scrimba-typescript)
