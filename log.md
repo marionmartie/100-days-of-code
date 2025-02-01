@@ -352,3 +352,12 @@
 
 **Link(s) to work**
 1. [GitHub] (https://github.com/marionmartie/scrimba-typescript)
+
+### Day 38: February 1, 2025
+
+**Today's Progress**: Learned about Generics and completed introductory course
+
+**Thoughts**: So how do I combine that with React and Vue?
+
+**Link(s) to work**
+1. [GitHub] (https://github.com/marionmartie/scrimba-typescript)
