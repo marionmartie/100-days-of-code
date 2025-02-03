@@ -361,3 +361,12 @@
 
 **Link(s) to work**
 1. [GitHub] (https://github.com/marionmartie/scrimba-typescript)
+
+### Day 39: February 3, 2025
+
+**Today's Progress**: Learned about NextJS creating, optimizing, 
+
+**Thoughts**: Fortunately, the tutorial is made with TypeScript as well so I am kinda learning to use it.
+
+**Link(s) to work**
+1. [GitHub] (https://github.com/marionmartie/scrimba-typescript)
