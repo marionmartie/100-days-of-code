@@ -369,4 +369,13 @@
 **Thoughts**: Fortunately, the tutorial is made with TypeScript as well so I am kinda learning to use it.
 
 **Link(s) to work**
-1. [GitHub] (https://github.com/marionmartie/scrimba-typescript)
+1. [GitHub] (https://github.com/marionmartie/next-js-tutorial)
+
+### Day 40: February 7, 2025
+
+**Today's Progress**: Deployed to vercel, added postgres, streaming, and skeleton loading, dynamic and static rendering
+
+**Thoughts**: Too... many... concepts.
+
+**Link(s) to work**
+1. [GitHub] (https://github.com/marionmartie/next-js-tutorial)
