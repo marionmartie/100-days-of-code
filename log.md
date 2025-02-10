@@ -379,3 +379,12 @@
 
 **Link(s) to work**
 1. [GitHub] (https://github.com/marionmartie/next-js-tutorial)
+
+### Day 41: February 10, 2025
+
+**Today's Progress**: Restarted crash course but with using TypeScript and nothing but my notes
+
+**Thoughts**: I feel like I am just learning way too many things and practicing none
+
+**Link(s) to work**
+1. [GitHub] (https://github.com/marionmartie/react-typescript)
