@@ -388,3 +388,12 @@
 
 **Link(s) to work**
 1. [GitHub] (https://github.com/marionmartie/react-typescript)
+
+### Day 42: February 11, 2025
+
+**Today's Progress**: Added JobListing and JobList including data type for Job
+
+**Thoughts**: I was tinkering for an hour due to incorrect data: missing salary data
+
+**Link(s) to work**
+1. [GitHub] (https://github.com/marionmartie/react-typescript)
