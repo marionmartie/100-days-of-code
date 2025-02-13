@@ -397,3 +397,12 @@
 
 **Link(s) to work**
 1. [GitHub] (https://github.com/marionmartie/react-typescript)
+
+### Day 43: February 12, 2025
+
+**Today's Progress**: Added limit, routing, and jobs page
+
+**Thoughts**: I was being a martyr over limits and ts and turns out just overthinking stuff
+
+**Link(s) to work**
+1. [GitHub] (https://github.com/marionmartie/react-typescript)
