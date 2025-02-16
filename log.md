@@ -406,3 +406,12 @@
 
 **Link(s) to work**
 1. [GitHub] (https://github.com/marionmartie/react-typescript)
+
+### Day 44: February 17, 2025
+
+**Today's Progress**: Wasted a whole hour debugging why jobs from json is returning empty unless I refreshed
+
+**Thoughts**: 
+
+**Link(s) to work**
+1. [GitHub] (https://github.com/marionmartie/react-typescript)
