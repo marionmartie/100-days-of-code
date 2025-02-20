@@ -433,3 +433,12 @@
 
 **Link(s) to work**
 1. [GitHub] (https://github.com/marionmartie/react-typescript)
+
+### Day 47: February 21, 2025
+
+**Today's Progress**: Applying TS on events, functions, and centralizing it
+
+**Thoughts**: Copilot is paid! Also, I spent so much time trying to understand TS.
+
+**Link(s) to work**
+1. [GitHub] (https://github.com/marionmartie/react-typescript)
