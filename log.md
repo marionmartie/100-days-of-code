@@ -442,3 +442,12 @@
 
 **Link(s) to work**
 1. [GitHub] (https://github.com/marionmartie/react-typescript)
+
+### Day 48: February 24, 2025
+
+**Today's Progress**: Completed the project, learned how to pass props as functions in react
+
+**Thoughts**: I need more practice
+
+**Link(s) to work**
+1. [GitHub] (https://github.com/marionmartie/react-typescript)
