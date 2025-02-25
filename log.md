@@ -451,3 +451,12 @@
 
 **Link(s) to work**
 1. [GitHub] (https://github.com/marionmartie/react-typescript)
+
+### Day 49: February 26, 2025
+
+**Today's Progress**: Trying with a simple project of to do list
+
+**Thoughts**: Confusing at first but probably because I am skipping the reading
+
+**Link(s) to work**
+1. [GitHub] (https://github.com/marionmartie/todo-react-typescipt)
