@@ -460,3 +460,12 @@
 
 **Link(s) to work**
 1. [GitHub] (https://github.com/marionmartie/todo-react-typescipt)
+
+### Day 50: February 27, 2025
+
+**Today's Progress**: Created the list and starting to understand that all variables, and I mean ALL, needs to declare the data type.
+
+**Thoughts**: It gets easier.
+
+**Link(s) to work**
+1. [GitHub] (https://github.com/marionmartie/todo-react-typescipt)
