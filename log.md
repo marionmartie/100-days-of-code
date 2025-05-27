@@ -18,3 +18,12 @@
 
 **Link(s) to work**
 1. [GitHub] (https://github.com/marionmartie/vue-crash-course/tree/round2)
+
+### Day 2: May 27, 2024
+
+**Today's Progress**: Dynamic navigation bar, routing, job listings
+
+**Thoughts**: Apparently, I did work on better notes.
+
+**Link(s) to work**
+1. [GitHub] (https://github.com/marionmartie/vue-crash-course/tree/round2)
