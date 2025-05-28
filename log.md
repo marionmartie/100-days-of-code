@@ -27,3 +27,12 @@
 
 **Link(s) to work**
 1. [GitHub] (https://github.com/marionmartie/vue-crash-course/tree/round2)
+
+### Day 3: May 28, 2024
+
+**Today's Progress**: Single page result, proxying, back button as component
+
+**Thoughts**: Spent more time transferring my notes from Notion to Capacities
+
+**Link(s) to work**
+1. [GitHub] (https://github.com/marionmartie/vue-crash-course/tree/round2)
