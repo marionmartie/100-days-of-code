@@ -36,3 +36,12 @@
 
 **Link(s) to work**
 1. [GitHub] (https://github.com/marionmartie/vue-crash-course/tree/round2)
+
+### Day 4: May 30, 2024
+
+**Today's Progress**: Day 4 and I am already skipping. I like how mindless I get for this activity. I need a different project.
+
+**Thoughts**: v-models and submitting data to fake API
+
+**Link(s) to work**
+1. [GitHub] (https://github.com/marionmartie/vue-crash-course/tree/round2)
