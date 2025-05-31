@@ -45,3 +45,13 @@
 
 **Link(s) to work**
 1. [GitHub] (https://github.com/marionmartie/vue-crash-course/tree/round2)
+
+### Day 5: May 31, 2024
+
+**Today's Progress**: Complete Vue refresher and want to use React + TS.
+
+**Thoughts**: Maybe I should try Vue + TS?
+
+**Link(s) to work**
+1. [GitHub] (https://github.com/marionmartie/vue-crash-course/tree/round2)
+2. [GitHub] (https://github.com/marionmartie/react-typescript/tree/refresher-may-2025)
