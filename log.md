@@ -55,3 +55,12 @@
 **Link(s) to work**
 1. [GitHub] (https://github.com/marionmartie/vue-crash-course/tree/round2)
 2. [GitHub] (https://github.com/marionmartie/react-typescript/tree/refresher-may-2025)
+
+### Day 6: June 1, 2025
+
+**Today's Progress**: Added static components of cards and truncated of description for jobs.
+
+**Thoughts**: TS is still confusing to me but I am getting a hang of it.
+
+**Link(s) to work**
+1. [GitHub] (https://github.com/marionmartie/react-typescript/tree/refresher-may-2025)
