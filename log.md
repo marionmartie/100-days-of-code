@@ -65,11 +65,20 @@
 **Link(s) to work**
 1. [GitHub] (https://github.com/marionmartie/react-typescript/tree/refresher-may-2025)
 
-### Day 6: June 1, 2025
+### Day 7: June 2, 2025
 
 **Today's Progress**: Very sleepy. Added routing, spinners, 404, layouts, fetch API.
 
 **Thoughts**: Okay, I am getting a hang of TS.
+
+**Link(s) to work**
+1. [GitHub] (https://github.com/marionmartie/react-typescript/tree/refresher-may-2025)
+
+### Day 8: June 3, 2025
+
+**Today's Progress**: Short session today, but confused so much with job loader.
+
+**Thoughts**: It gets difficult with loading functions. Why is it so complicated?
 
 **Link(s) to work**
 1. [GitHub] (https://github.com/marionmartie/react-typescript/tree/refresher-may-2025)
