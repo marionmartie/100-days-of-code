@@ -82,3 +82,12 @@
 
 **Link(s) to work**
 1. [GitHub] (https://github.com/marionmartie/react-typescript/tree/refresher-may-2025)
+
+### Day 9: June 5, 2025
+
+**Today's Progress**: Completed CRUD function. 
+
+**Thoughts**: Confusing and easy. I will go back to Vue.
+
+**Link(s) to work**
+1. [GitHub] (https://github.com/marionmartie/react-typescript/tree/refresher-may-2025)
