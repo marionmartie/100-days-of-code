@@ -83,11 +83,11 @@
 **Link(s) to work**
 1. [GitHub] (https://github.com/marionmartie/react-typescript/tree/refresher-may-2025)
 
-### Day 9: June 5, 2025
+### Day 9: June 8, 2025
 
-**Today's Progress**: Completed CRUD function. 
+**Today's Progress**: Cleaned up boilerplate.
 
-**Thoughts**: Confusing and easy. I will go back to Vue.
+**Thoughts**: I need design to follow. Vue + TS is much simpler to learn. I think.
 
 **Link(s) to work**
-1. [GitHub] (https://github.com/marionmartie/react-typescript/tree/refresher-may-2025)
+1. [GitHub] (https://github.com/marionmartie/vue-ts-01)
