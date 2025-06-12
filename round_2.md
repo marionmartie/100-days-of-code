@@ -91,3 +91,12 @@
 
 **Link(s) to work**
 1. [GitHub] (https://github.com/marionmartie/vue-ts-01)
+
+### Day 10: June 12, 2025
+
+**Today's Progress**: Separated tasks as components, larger checkbox, defined props and passing them to child components.
+
+**Thoughts**: Vue is already built in TS. It really really is.
+
+**Link(s) to work**
+1. [GitHub] (https://github.com/marionmartie/vue-ts-01)
