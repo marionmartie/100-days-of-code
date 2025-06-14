@@ -100,3 +100,13 @@
 
 **Link(s) to work**
 1. [GitHub] (https://github.com/marionmartie/vue-ts-01)
+
+### Day 11: June 14, 2025
+
+**Today's Progress**: Learned how to submit emit data, click data, and objects
+
+**Thoughts**: I need to explore more samples, maybe get ideas for challenges on use cases of emitting data so I can get more exercises for it.
+
+**Links(s) to work**
+1. [GitHub] (https://github.com/marionmartie/vue-ts-01)
+1. [Capacities] (https://app.capacities.io/home/1c5051e3-8404-4b68-b992-df18103dcc9b)
