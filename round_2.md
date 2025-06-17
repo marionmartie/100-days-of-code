@@ -110,3 +110,13 @@
 **Links(s) to work**
 1. [GitHub] (https://github.com/marionmartie/vue-ts-01)
 1. [Capacities] (https://app.capacities.io/home/1c5051e3-8404-4b68-b992-df18103dcc9b)
+
+### Day 12: June 17, 2025
+
+**Today's Progress**: Practiced how to emit events without referring to google.
+
+**Thoughts**: Keep on practicing and writing algorithms.
+
+**Links(s) to work**
+1. [GitHub] (https://github.com/marionmartie/vue-ts-01)
+1. [Capacities] (https://app.capacities.io/home/1c5051e3-8404-4b68-b992-df18103dcc9b)
