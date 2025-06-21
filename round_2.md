@@ -120,3 +120,13 @@
 **Links(s) to work**
 1. [GitHub] (https://github.com/marionmartie/vue-ts-01)
 1. [Capacities] (https://app.capacities.io/home/1c5051e3-8404-4b68-b992-df18103dcc9b)
+
+### Day 13: June 21, 2025
+
+**Today's Progress**: Spent hours trying to understand why reversing checkbox isn't working only to realize it's attached to a v-model. Transferred data to json-server and created post function.
+
+**Thoughts**: I really shouldn't rely too much on AI support or google searches.
+
+**Links(s) to work**
+1. [GitHub] (https://github.com/marionmartie/vue-ts-01)
+1. [Capacities] (https://app.capacities.io/home/1c5051e3-8404-4b68-b992-df18103dcc9b)
