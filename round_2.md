@@ -130,3 +130,12 @@
 **Links(s) to work**
 1. [GitHub] (https://github.com/marionmartie/vue-ts-01)
 1. [Capacities] (https://app.capacities.io/home/1c5051e3-8404-4b68-b992-df18103dcc9b)
+
+### Day 14: June 29, 2025
+
+**Today's Progress**: Added DaisyUI and priority buttons.
+**Thoughts**: It's fun.
+
+**Links(s) to work**
+1. [GitHub] (https://github.com/marionmartie/vue-ts-01)
+1. [Capacities] (https://app.capacities.io/home/1c5051e3-8404-4b68-b992-df18103dcc9b)
